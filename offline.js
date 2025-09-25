@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1758822408,
+	"version": 1758835164,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -304,6 +304,7 @@
 		"images/sprite5-sheet0.png",
 		"images/sprite6-sheet0.png",
 		"images/sprite7-sheet0.png",
+		"images/sprite8-sheet0.png",
 		"media/itens_rings.ogg",
 		"media/itens_ringloss.ogg",
 		"media/itens_monitors.ogg",
